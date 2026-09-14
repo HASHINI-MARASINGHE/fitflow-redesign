@@ -29,7 +29,6 @@ fitflow-redesign/
 │ └── architecture-diagram.png
 └── README.md
 
-
 ## Documentation
 
 - **Technology Comparison** — `docs/technology-comparison.md`
