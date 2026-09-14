@@ -18,16 +18,19 @@ A cross-platform fitness application redesign delivering personalized workout pl
 See `docs/technology-comparison.md` and `docs/decision-matrix.md` for the full evaluation and justification behind these choices.
 
 ## Project Structure
+
+```
 fitflow-redesign/
-├── frontend/ # Flutter app (iOS, Android, Web)
-├── backend/ # NestJS microservices (user, workout, nutrition, social, notification)
-├── ai-service/ # FastAPI AI/ML microservice
-├── docs/ # Documentation
-│ ├── technology-comparison.md
-│ ├── decision-matrix.md
-│ ├── architecture-decision-record.md
-│ └── architecture-diagram.png
+├── frontend/       # Flutter app (iOS, Android, Web)
+├── backend/        # NestJS microservices (user, workout, nutrition, social, notification)
+├── ai-service/     # FastAPI AI/ML microservice
+├── docs/           # Documentation
+│   ├── technology-comparison.md
+│   ├── decision-matrix.md
+│   ├── architecture-decision-record.md
+│   └── architecture-diagram.png
 └── README.md
+```
 
 ## Documentation
 
